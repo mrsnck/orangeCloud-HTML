@@ -1347,6 +1347,7 @@
   }
   .home-text03 {
     font-size: 32px;
+    line-height: 48px;
   }
   .home-text04 {
     font-size: 16px;
@@ -1392,7 +1393,7 @@
   }
   .home-description {
     font-size: 32px;
-    line-height: 38px;
+    line-height: 48px;
   }
   .home-statistics {
     gap: var(--dl-space-space-threeunits);
@@ -1637,7 +1638,7 @@
   .home-text52 {
     font-size: 32px;
     text-align: left;
-    line-height: 38px;
+    line-height: 48px;
   }
   .home-text53 {
     font-size: 16px;
