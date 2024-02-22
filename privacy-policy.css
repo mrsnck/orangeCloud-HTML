@@ -627,6 +627,7 @@
   max-width: 1000px;
   font-style: normal;
   font-weight: 400;
+  line-height: 66px;
 }
 .privacy-policy-content {
   gap: 120px;
@@ -655,12 +656,45 @@
   display: flex;
   flex-direction: column;
 }
-.privacy-policy-text03 {
+.privacy-policy-text003 {
   color: rgb(39, 39, 45);
   width: 100%;
   font-size: 24px;
   max-width: 800px;
   line-height: 43px;
+}
+.privacy-policy-text023 {
+  font-weight: 700;
+}
+.privacy-policy-text044 {
+  font-weight: 700;
+}
+.privacy-policy-text065 {
+  font-weight: 700;
+}
+.privacy-policy-text072 {
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-text073 {
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-text089 {
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-text090 {
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-text097 {
+  font-style: normal;
+  font-weight: 400;
+}
+.privacy-policy-text098 {
+  font-style: normal;
+  font-weight: 400;
 }
 @media(max-width: 991px) {
   .privacy-policy-hero {
@@ -674,8 +708,7 @@
   .privacy-policy-text {
     color: rgb(39, 39, 45);
     font-size: 32px;
-    font-style: normal;
-    font-weight: 400;
+    line-height: 42px;
   }
   .privacy-policy-content {
     gap: var(--dl-space-space-sixunits);
@@ -691,7 +724,7 @@
   .privacy-policy-heading {
     gap: var(--dl-space-space-unit);
   }
-  .privacy-policy-text03 {
+  .privacy-policy-text003 {
     font-size: 16px;
     line-height: 28px;
   }
